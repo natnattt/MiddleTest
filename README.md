@@ -1,9 +1,11 @@
-#MIDDLE TEST
+# MIDDLE TEST
+
 Middle Test berupa Coding test merupakan salah satu tahapan yang harus dilalui peserta untuk melalui tahap seleksi Kampus Merdeka - Data Warehouse 2024.
 
 Soal middle test tertera pada link Google Drive yang berformat .ipynb), untuk informasi lebih lengkap mengenai soal bisa dilihat pada link berikut https://bit.ly/MidTestDBB-DW6
 
 Soal Mid-Test terdiri dari 4 soal, yaitu 2 soal SQL dan 2 soal Python:
+
 **Python**
 1. Python 1 : Who is in the third place?
 Create a function whose name is third_place that does the following:
